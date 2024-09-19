@@ -1,1 +1,1 @@
-ensemblorg/ensembl-vep:release_88.14
+ensemblorg/ensembl-vep:release_112.0
