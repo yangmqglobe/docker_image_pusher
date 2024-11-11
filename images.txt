@@ -1,1 +1,1 @@
-ensemblorg/ensembl-vep:release_112.0
+openjdk:17-ea-slim-buster
