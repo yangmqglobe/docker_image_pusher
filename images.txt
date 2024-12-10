@@ -1,1 +1,1 @@
-openjdk:17-ea-slim-buster
+p3terx/aria2-pro:latest
