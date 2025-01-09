@@ -1,1 +1,2 @@
-p3terx/ariang:latest
+postgres:17.2-alpine3.21
+rabbitmq:4.0.5-management-alpine
