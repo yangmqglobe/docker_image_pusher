@@ -1,2 +1,1 @@
-adminer:5.0.4-standalone
-
+gradle:8.1-jdk17
