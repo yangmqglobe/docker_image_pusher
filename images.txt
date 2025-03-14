@@ -1,1 +1,2 @@
 mariadb:10.0.27
+dbeaver/cloudbeaver:25.0.0
