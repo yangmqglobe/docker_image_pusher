@@ -1,2 +1,1 @@
-mariadb:lts-ubi9
-
+mariadb:10.0.27
