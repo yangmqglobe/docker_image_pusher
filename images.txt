@@ -1,2 +1,2 @@
-gitea/gitea:1.23-rootless
+mariadb:lts-ubi9
 
