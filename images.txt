@@ -1,2 +1,2 @@
-mariadb:10.0.27
-dbeaver/cloudbeaver:25.0.0
+adminer:5.0.4-standalone
+
