@@ -1,1 +1,1 @@
-gradle:8.1-jdk17
+nginx:stable-alpine3.20-perl
