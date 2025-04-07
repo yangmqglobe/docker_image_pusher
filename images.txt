@@ -1,1 +1,1 @@
-syncthing/syncthing:1.29
+biocommons/uta:uta_20241220
