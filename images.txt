@@ -1,1 +1,1 @@
-biocommons/uta:uta_20241220
+gitea/gitea:1.23-rootless
