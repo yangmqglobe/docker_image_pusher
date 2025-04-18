@@ -1,1 +1,1 @@
-dbeaver/cloudbeaver:25.0.2
+gradle:jdk17-corretto-al2023
