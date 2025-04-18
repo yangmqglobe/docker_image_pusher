@@ -1,1 +1,1 @@
-gradle:jdk17-corretto-al2023
+openjdk:17-ea-slim-buster
