@@ -1,1 +1,1 @@
-columbiacpmg/triodenovo:latest
+ollama/ollama
