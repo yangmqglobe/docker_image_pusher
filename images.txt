@@ -1,1 +1,1 @@
-ollama/ollama
+condaforge/miniforge3:25.3.1-0
