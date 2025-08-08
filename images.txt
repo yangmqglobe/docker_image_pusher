@@ -1,1 +1,1 @@
-condaforge/miniforge3:25.3.1-0
+ensemblorg/ensembl-vep:release_114.2
